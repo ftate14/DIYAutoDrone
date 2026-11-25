@@ -1,0 +1,12 @@
+# ROS build output
+build/
+install/
+log/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Altium history and previews
+History/
+__Previews/
