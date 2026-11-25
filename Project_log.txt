@@ -1,0 +1,6 @@
+12/24/2026 - Today I planned a lot of the project components and software stack, installed ROS2, completed a few beginner tutorials in the ROS2 series
+
+
+
+12/25/2026 - Finished 1st set and a little of 2nd set of ROS tutorials, installed ardupilot and the SITL. Setup GitHub and planned budget and work/order timelines
+
