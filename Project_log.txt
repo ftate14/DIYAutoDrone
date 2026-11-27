@@ -7,4 +7,5 @@
 11/26/2026 - Installed and configured QGroundControl, set it up to control the simulated drone in ardupilot SITL
 
 11/27/2026 - Installed Gazebo Harmonic, got the simulated drone running and accepting ARM and TAKEOFF commands from the SITL ground control terminal
-
+           - Began writing flight_commander class
+           
