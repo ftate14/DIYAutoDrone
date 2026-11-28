@@ -18,3 +18,7 @@ class FlightCommander(Node):
         self.create_subscription(PoseStamped, '/mavros/local_position/pose', self._pose_cb, qos_profile_sensor_data)
 
 
+        #clients
+        self.mode_cli = self.create_client(SetMode, '/mavros/set_mode')
+        self.arm_cli = self.create_client(CommandBool, '/mavros/cmd/arming')
+        self.takeoff_cli = self.create_client(CommandTOL, '/mavros/cmd/takeoff')
