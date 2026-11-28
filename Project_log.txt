@@ -1,11 +1,10 @@
 11/24/2026 - Today I planned a lot of the project components and software stack, installed ROS2, completed a few beginner tutorials in the ROS2 series
 
-
-
 11/25/2026 - Finished 1st set and a little of 2nd set of ROS tutorials, installed ardupilot and the SITL. Setup GitHub and planned budget and work/order timelines
 
 11/26/2026 - Installed and configured QGroundControl, set it up to control the simulated drone in ardupilot SITL
 
 11/27/2026 - Installed Gazebo Harmonic, got the simulated drone running and accepting ARM and TAKEOFF commands from the SITL ground control terminal
            - Began writing flight_commander class
+	   - Decided on final hardware stack
            
